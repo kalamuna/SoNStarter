@@ -1,0 +1,22 @@
+{
+  "name": "starter-kit",
+  "version": "0.0.0",
+  "homepage": "https://github.com/bassettsj/bc14",
+  "authors": [
+    "Steven Bassett <steven.j.bassett@gmail.com>",
+    "Thiago"
+  ],
+  "main": "scripts/index.coffee",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": ">=4.1.0",
+    "bootstrap-sass-official": ">=3.2.0"
+  }
+}
